@@ -1,0 +1,19 @@
+# 📊 Sales Data Analysis
+
+This project analyzes fictional retail sales data to discover insights in product performance, regional trends, and time-based sales patterns.
+
+## 📁 Dataset
+- `sales_data.csv` contains simulated sales records of 5 products across 4 regions over 6 months.
+
+## 📈 Key Insights
+- Total sales by product and region
+- Monthly sales trend analysis
+- Heatmap visualization of product-region relationships
+
+## 🧰 Technologies Used
+- Python
+- Pandas
+- Matplotlib & Seaborn
+- Jupyter Notebook
+
+## 📂 Folder Structure
